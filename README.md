@@ -7,7 +7,7 @@ Hello everyone, I am a helpful software engineer currently working in the Networ
 I only write C# code, but I really like TS. I am trying to get into Python and ML, but I still have a long way to go. <br>
 In the past, I worked in banks and stock brokers. <br>
 <br>
-For now, I am only maintaining this repository:  [MyBoilerPlate](https://github.com/Mauriciog87/MyApiBoilerPlate)
+For now, I am only maintaining this repository:  <a href="https://github.com/Mauriciog87/MyApiBoilerPlate">MyBoilerPlate</a>
 </p>
 
 ###
