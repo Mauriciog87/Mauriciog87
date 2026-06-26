@@ -6,9 +6,15 @@
 Hello everyone, I am a helpful software engineer currently working in the Network Graphics industry. <br>
 I only write C# code, but I really like TS. I am trying to get into Python and ML, but I still have a long way to go. <br>
 In the past, I worked in banks and stock brokers. <br>
-<br>
-For now, I am only maintaining this repository:  <a href="https://github.com/Mauriciog87/MyApiBoilerPlate">MyBoilerPlate</a>
 </p>
+
+<p align="left">These are the projects I am maintaining right now:</p>
+
+<ul align="left">
+  <li><a href="https://github.com/Mauriciog87/MyApiBoilerPlate">MyBoilerPlate</a>: my .NET API boilerplate for starting backend services without rebuilding the same setup every time.</li>
+  <li><a href="https://github.com/Mauriciog87/ckpg">ckpg</a>: a local CLI for checking <code>safetensors</code> and LoRA checkpoints before they move into CI, review, or release.</li>
+  <li><a href="https://github.com/Mauriciog87/codex-win-widget">codex-win-widget</a>: a Windows tray widget that shows remaining Codex limits in a small taskbar flyout.</li>
+</ul>
 
 ###
 
